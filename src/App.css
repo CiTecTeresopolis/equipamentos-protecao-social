@@ -66,7 +66,7 @@ body {
   height: 100px;
   /* align-items: center; */
   /* justify-content: flex-end; */
-  background-color: #219ebc;
+  background-color: #43aa8b;
 }
 
 .part-1 {
@@ -101,12 +101,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #219ebc;
+  background-color: #43aa8b;
 }
 
 .text-footer {
   color: white;
-  background-color: #219ebc;
+  background-color: #43aa8b;
 }
 
 .cras-button {
@@ -115,7 +115,7 @@ body {
   color: white;
   cursor: pointer;
   border-radius: 6px;
-  background-color: #219ebc;
+  background-color: #43aa8b;
 }
 
 .expand-button {
@@ -126,12 +126,12 @@ body {
   margin-top: 15px;
   padding: 10px 16px;
   border-radius: 6px;
-  background-color: #219ebc;
+  background-color: #43aa8b;
   transition: background-color 0.3s ease;
 }
 
 .expand-button:hover, .cras-button:hover{
-  background-color: #1a7186;
+  background-color: #338069;
 }
 
 .bairro-list {
