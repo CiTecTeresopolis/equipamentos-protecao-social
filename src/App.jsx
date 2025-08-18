@@ -72,7 +72,7 @@ function App() {
     {
       id: "cras-barra",
       titulo: "CRAS BARRA",
-      telefone: "(21)2644-9562",
+      telefone: "(21) 2644-9562",
       ramal: "1008",
       endereco: "Rua Dr. Oliveira, nº 110 - Barra",
       imagem:
@@ -124,7 +124,7 @@ function App() {
     },
     {
       id: "cras-bomsucesso",
-      titulo: "CRAS BOMSUCESSO",
+      titulo: "CRAS BONSUCESSO",
       telefone: "(21) 2644-9559",
       ramal: "1005",
       endereco: "Rua Domingos Augusto da Costa - Bonsucesso",
@@ -348,11 +348,14 @@ function App() {
                     {item.titulo}
                   </button>
                   {index == selectedIndex && isExpanded && (
-                    <ul className="bairro-list">
-                      {crasSelecionado.abrangencia.map((bairro, index) => (
-                        <li key={index}>{bairro}</li>
-                      ))}
-                    </ul>
+                    <>
+                      <b>Área de Abrangência:</b>
+                      <ul className="bairro-list">
+                        {crasSelecionado.abrangencia.map((bairro, index) => (
+                          <li key={index}>{bairro}</li>
+                        ))}
+                      </ul>
+                    </>
                   )}
                 </>
               );
@@ -370,7 +373,10 @@ function App() {
             />
             <div className="map-card-info">
               <h3>{crasSelecionado.titulo}</h3>
-              <p>Telefone: {crasSelecionado.telefone} - Ramal: {crasSelecionado.ramal}</p>
+              <p>
+                Telefone: {crasSelecionado.telefone} - Ramal:{" "}
+                {crasSelecionado.ramal}
+              </p>
               <p>Endereço: {crasSelecionado.endereco}</p>
               <h3>Localização</h3>
               <div className="map-embed">

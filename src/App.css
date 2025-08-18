@@ -54,7 +54,7 @@ body {
 }
 
 .select-cras {
-  gap: 15px;
+  gap: 5px;
   display: flex;
   margin-top: 50px;
   flex-direction: column;
@@ -138,6 +138,7 @@ body {
   padding: 10px;
   margin-top: 0px;
   max-height: 200px;
+  padding-left: 10px;
   overflow-y: auto;
   background-color: #ffffff;
 }
