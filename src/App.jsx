@@ -169,7 +169,7 @@ function App() {
       ramal: "1003",
       endereco: "Rua Caramuru, nº 108 - Meudon",
       imagem:
-        "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c11wtmGsyoYHZ7wwyLcfHA&cb_client=search.revgeo_and_fetch.gps&w=96&h=64&yaw=307.253&pitch=0&thumbfov=100",
+        "https://drive.google.com/file/d/13Gc0yO-FZcjZhWqctjTcmE1hV_2tWiow/view?usp=sharing",
       coordenadas:
         "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d230.49125119166078!2d-42.94564873271006!3d-22.43429389069465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x99b356a3ba065f%3A0x2546813027593f84!2sR.%20Caramuru%2C%20100%20-%20Meudon%2C%20Teres%C3%B3polis%20-%20RJ%2C%2025954-175!5e0!3m2!1spt-BR!2sbr!4v1755548153053!5m2!1spt-BR!2sbr",
       abrangencia: [
