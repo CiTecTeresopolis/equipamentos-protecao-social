@@ -67,7 +67,7 @@ function App() {
         "Córrego do Príncipe",
         "Dente de Ouro",
         "Espanhol",
-        "Féo",
+        "Feo",
         "Golf",
         "Granja Florestal",
         "Jardim Pinheiros",
