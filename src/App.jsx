@@ -8,6 +8,7 @@ function App() {
       titulo: "CRAS ALTO",
       telefone: "(21) 2644-9555",
       ramal: "1001",
+      coordenador: "Esvetilana Machado de Lima Pereira",
       endereco: "Rua Nilza Chiapeta Fadigas, nº 190 - Várzea",
       imagem:
         "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A0dD3lTgSVbeWbNv2nu72A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=127.02197&pitch=0&thumbfov=100",
@@ -59,7 +60,7 @@ function App() {
         "Poço dos Peixes",
         "Prata dos Aredes",
         "Providência",
-        "Quebra Coco",
+        "Quebra Côco",
         "Santa Rita",
         "Serra do Capim",
         "Soberbo",
@@ -74,6 +75,7 @@ function App() {
       titulo: "CRAS BARRA",
       telefone: "(21) 2644-9562",
       ramal: "1008",
+      coordenador: "Regiane Ferreira Ventura",
       endereco: "Rua Dr. Oliveira, nº 110 - Barra",
       imagem:
         "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jIFJLtIzD1jsb4wvy_oRvw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=216.43628&pitch=0&thumbfov=100",
@@ -108,6 +110,7 @@ function App() {
       titulo: "CRAS BARROSO",
       telefone: "(21) 2644-9556",
       ramal: "1002",
+      coordenador: "Paolla Alves Chagas",
       endereco: "Rua Pará, s/nº - Barroso",
       imagem:
         "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rOjwsT6Pqu9peQSIc0-h-w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=171.55518&pitch=0&thumbfov=100",
@@ -127,6 +130,7 @@ function App() {
       titulo: "CRAS BONSUCESSO",
       telefone: "(21) 2644-9559",
       ramal: "1005",
+      coordenador: "",
       endereco: "Rua Domingos Augusto da Costa - Bonsucesso",
       imagem:
         "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uUHi43jVYnmkv7_2aPHf9g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=101.20357&pitch=0&thumbfov=100",
@@ -167,16 +171,17 @@ function App() {
       titulo: "CRAS MEUDON",
       telefone: "(21) 2644-9557",
       ramal: "1003",
+      coordenador: "Tereza Crisstina A. dos Santos",
       endereco: "Rua Caramuru, nº 108 - Meudon",
       imagem:
-        "https://drive.google.com/file/d/13Gc0yO-FZcjZhWqctjTcmE1hV_2tWiow/view?usp=sharing",
+        "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3B7d14etoaIjX_7cSJbWXg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=316.4791&pitch=0&thumbfov=100",
       coordenadas:
-        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d230.49125119166078!2d-42.94564873271006!3d-22.43429389069465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x99b356a3ba065f%3A0x2546813027593f84!2sR.%20Caramuru%2C%20100%20-%20Meudon%2C%20Teres%C3%B3polis%20-%20RJ%2C%2025954-175!5e0!3m2!1spt-BR!2sbr!4v1755548153053!5m2!1spt-BR!2sbr",
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d921.9662036396326!2d-42.94598673036933!3d-22.43410935911563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x99b3569f61f27f%3A0xfe3c2bc107645051!2sR.%20Caramuru%2C%20108%20-%20Meudon%2C%20Teres%C3%B3polis%20-%20RJ%2C%2025954-175!5e0!3m2!1spt-BR!2sbr!4v1755528896232!5m2!1spt-BR!2sbr",
       abrangencia: [
         "Bom Retiro",
         "Coréia",
         "Jardim Meudon",
-        "Jacaraná",
+        "Jacarandá",
         "Meudon",
         "Vale da Revolta",
       ],
@@ -186,6 +191,7 @@ function App() {
       titulo: "CRAS PRATA",
       telefone: "(21) 2644-9558",
       ramal: "1004",
+      coordenador: "Mariza Souza Ferreira",
       endereco: "Rua Avelino Machado Bastos, nº 250 - Prata",
       imagem:
         "https://lh3.googleusercontent.com/p/AF1QipP8kryUYCb9Q6IcEHqPvcoa2Dxz3GQt25vM7JjP=w408-h304-k-no",
@@ -206,6 +212,7 @@ function App() {
       titulo: "CRAS SÃO PEDRO",
       telefone: "(21) 2644-9560",
       ramal: "1006",
+      coordenador: "Lívia Marílha Fermiane Gomes da Silva",
       endereco: "Rua Fileuterpe, nº 845 – São Pedro",
       imagem:
         "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SHmSJ1ahOMBk9AYc7OBkhA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=92.579445&pitch=0&thumbfov=100",
@@ -225,6 +232,7 @@ function App() {
       titulo: "CREAS",
       telefone: "(21) 2644-9563",
       ramal: "1009",
+      coordenador: "Bibiana Correa Fernande",
       endereco: "Rua Carmela Dutra, nº 812 – Agriões",
       imagem:
         "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UVfAxI1DaBP__s52SNNC6A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=137.13556&pitch=0&thumbfov=100",
@@ -235,7 +243,9 @@ function App() {
   ];
   const [isExpanded, setIsExpanded] = useState(false);
   const [selectedIndex, setSelectedIndex] = useState();
+  const [bairroSelecionado, setBairroSelecionado] = useState();
   const [crasSelecionado, setCrasSelecionado] = useState(cras[0]);
+
 
   const [searchTerm, setSearchTerm] = useState("");
   const [filteredBairros, setFilteredBairros] = useState([]);
@@ -274,6 +284,9 @@ function App() {
   };
 
   const handleSelectBairro = (bairro) => {
+    
+    setBairroSelecionado(bairro)
+
     const crasEncontrado = cras.find((item) =>
       item.abrangencia.includes(bairro)
     );
@@ -352,7 +365,7 @@ function App() {
                       <b>Área de Abrangência:</b>
                       <ul className="bairro-list">
                         {crasSelecionado.abrangencia.map((bairro, index) => (
-                          <li key={index}>{bairro}</li>
+                          <li style={{color: bairro == bairroSelecionado? "red": ""}}  key={index}>{bairro}</li>
                         ))}
                       </ul>
                     </>
@@ -368,11 +381,11 @@ function App() {
             <img
               className="imagem-cras"
               src={crasSelecionado.imagem}
-              height={300}
-              width={600}
+
             />
             <div className="map-card-info">
               <h3>{crasSelecionado.titulo}</h3>
+              <p>Coordenador: {crasSelecionado.coordenador}</p>
               <p>
                 Telefone: {crasSelecionado.telefone} - Ramal:{" "}
                 {crasSelecionado.ramal}
@@ -384,7 +397,7 @@ function App() {
                   title="Google Map"
                   src={crasSelecionado.coordenadas}
                   width="100%"
-                  height="300"
+                  height="200"
                   style={{ border: 0 }}
                   allowFullScreen=""
                   loading="lazy"
