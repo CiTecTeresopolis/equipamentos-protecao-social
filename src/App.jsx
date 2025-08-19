@@ -148,7 +148,7 @@ function App() {
       titulo: "CRAS MEUDON",
       telefone: "(21) 2644-9557",
       ramal: "1003",
-      coordenador: "Tereza Crisstina A. dos Santos",
+      coordenador: "Tereza Cristina Alvares dos Santos",
       endereco: "Rua Caramuru, nº 108 - Meudon",
       imagem: "/meudon.jpeg",
       coordenadas:
