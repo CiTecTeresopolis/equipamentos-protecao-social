@@ -184,7 +184,7 @@ function App() {
         "Campo Limpo",
         "Cruzeiro",
         "Cuiabá",
-        "Fazenda Alphina",
+        "Fazenda Alpina",
         "Gamboa",
         "Granja Mafra",
         "Holliday",
