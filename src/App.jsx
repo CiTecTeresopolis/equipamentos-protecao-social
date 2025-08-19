@@ -107,7 +107,7 @@ function App() {
       titulo: "CRAS BONSUCESSO",
       telefone: "(21) 2644-9559",
       ramal: "1005",
-      coordenador: "",
+      coordenador: "Aline Amaral Pagliasse",
       endereco: "Rua Domingos Augusto da Costa - Bonsucesso",
       imagem:
         "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uUHi43jVYnmkv7_2aPHf9g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=101.20357&pitch=0&thumbfov=100",
