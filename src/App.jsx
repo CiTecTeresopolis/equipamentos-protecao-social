@@ -387,7 +387,7 @@ function App() {
             />
             <div className="map-card-info">
               <h3>{crasSelecionado.titulo}</h3>
-              <p>Coordenador: {crasSelecionado.coordenador}</p>
+              <p>Coordenadora: {crasSelecionado.coordenador}</p>
               <p>
                 Telefone: {crasSelecionado.telefone} - Ramal:{" "}
                 {crasSelecionado.ramal}
