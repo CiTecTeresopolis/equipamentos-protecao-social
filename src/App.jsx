@@ -306,7 +306,10 @@ function App() {
     <div className="App">
       <div className="header">
         <div className="part-1">
-          <h1>Sistema Único de Assistência Social</h1>
+          <div>
+            <h1>Sistema Único de Assistência Social</h1>
+            <p style={{textAlign: "center", marginTop: -10}}>Teresópolis-RJ</p>
+          </div>
         </div>
         <div className="part-2">
           <div className="search-container">
