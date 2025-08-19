@@ -239,7 +239,7 @@ function App() {
         "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UVfAxI1DaBP__s52SNNC6A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=137.13556&pitch=0&thumbfov=100",
       coordenadas:
         "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3688.326380408051!2d-42.9737996!3d-22.416738199999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x984cd3b0317c59%3A0xed2a8e05e3597557!2sR.%20Carmela%20Dutra%2C%20812%20-%20Agri%C3%B5es%2C%20Teres%C3%B3polis%20-%20RJ%2C%2025963-140!5e0!3m2!1spt-BR!2sbr!4v1755529232389!5m2!1spt-BR!2sbr",
-      abrangencia: ["Município de Teresópolis"],
+      abrangencia: ["Município de Teresópolis (Todo o território)"],
     },
   ];
 
