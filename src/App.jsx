@@ -174,6 +174,26 @@ function App() {
       coordenadas:
         "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3689.1554710058003!2d-42.95530679999999!3d-22.3854957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x984d6921ced511%3A0x2e309819819c1ade!2sCRAS%20PRATA!5e0!3m2!1spt-BR!2sbr!4v1755529021384!5m2!1spt-BR!2sbr",
       abrangencia: [
+        "Água Quente",
+        "Andradas",
+        "Arrieiro",
+        "Bacia",
+        "Biquinha",
+        "Boa União",
+        "Brejal",
+        "Campo Limpo",
+        "Cruzeiro",
+        "Cuiabá",
+        "Fazenda Alphina",
+        "Gamboa",
+        "Granja Mafra",
+        "Holliday",
+        "Morro Agudo",
+        "Pessegueiros",
+        "Pião",
+        "Ponte Nova",
+        "Providência",
+        "Poço dos Peixes",
         "Álvaro Paná",
         "Fazenda Ermitage",
         "Fischer",
@@ -182,6 +202,10 @@ function App() {
         "Quebra Côco",
         "Quinta Lebrão",
         "Roncador",
+        "Santa Rita",
+        "Serra do Capim",
+        "Três Córregos" 
+
       ],
     },
     {
@@ -209,7 +233,7 @@ function App() {
       titulo: "CREAS",
       telefone: "(21) 2644-9563",
       ramal: "1009",
-      coordenador: "Bibiana Correa Fernandes",
+      coordenador: "Bibiana Correa Fernande",
       endereco: "Rua Carmela Dutra, nº 812 – Agriões",
       imagem:
         "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UVfAxI1DaBP__s52SNNC6A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=137.13556&pitch=0&thumbfov=100",
@@ -363,7 +387,7 @@ function App() {
             />
             <div className="map-card-info">
               <h3>{crasSelecionado.titulo}</h3>
-              <p>Coordenadora: {crasSelecionado.coordenador}</p>
+              <p>Coordenador: {crasSelecionado.coordenador}</p>
               <p>
                 Telefone: {crasSelecionado.telefone} - Ramal:{" "}
                 {crasSelecionado.ramal}
