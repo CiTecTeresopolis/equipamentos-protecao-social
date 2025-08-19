@@ -199,7 +199,7 @@ function App() {
         "Fischer",
         "Fonte Santa",
         "Prata",
-        "Quebra Côco",
+        "Quebra Coco",
         "Quinta Lebrão",
         "Roncador",
         "Santa Rita",
