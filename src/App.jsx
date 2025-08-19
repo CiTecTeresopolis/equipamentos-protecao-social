@@ -126,7 +126,7 @@ function App() {
         "Frades",
         "Imbiú",
         "Mottas",
-        "Lucius",
+        "Lucios",
         "Morro Grande",
         "Porto",
         "Prates",
