@@ -88,7 +88,7 @@ function App() {
       telefone: "(21) 2644-9556",
       ramal: "1002",
       coordenador: "Paolla Alves Chagas",
-      endereco: "Rua Pará, s/nº - Barroso",
+      endereco: "Rua Pará, nº 500 - Barroso",
       imagem:
         "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rOjwsT6Pqu9peQSIc0-h-w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=171.55518&pitch=0&thumbfov=100",
       coordenadas:
