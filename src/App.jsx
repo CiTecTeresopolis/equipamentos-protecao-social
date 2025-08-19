@@ -155,7 +155,7 @@ function App() {
         "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d921.9662036396326!2d-42.94598673036933!3d-22.43410935911563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x99b3569f61f27f%3A0xfe3c2bc107645051!2sR.%20Caramuru%2C%20108%20-%20Meudon%2C%20Teres%C3%B3polis%20-%20RJ%2C%2025954-175!5e0!3m2!1spt-BR!2sbr!4v1755528896232!5m2!1spt-BR!2sbr",
       abrangencia: [
         "Bom Retiro",
-        "Coréia",
+        "Coreia",
         "Jacarandá",
         "Jardim Meudon",
         "Meudon",
