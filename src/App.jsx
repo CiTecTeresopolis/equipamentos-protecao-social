@@ -242,7 +242,7 @@ function App() {
       titulo2: "CREAS",
       telefone: "(21) 2644-9563",
       ramal: "1009",
-      coordenador: "Bibiana Correa FernandeS",
+      coordenador: "Bibiana Correa Fernandes",
       endereco: "Rua Carmela Dutra, nº 812 – Agriões",
       imagem:
         "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UVfAxI1DaBP__s52SNNC6A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=137.13556&pitch=0&thumbfov=100",
@@ -372,7 +372,7 @@ function App() {
                     }}
                     className="cras-button"
                   >
-                    {item.titulo2}
+                    {item.titulo}
                   </button>
                   {index == selectedIndex && isExpanded && (
                     <>
@@ -398,7 +398,7 @@ function App() {
 
             />
             <div className="map-card-info">
-              <h3>{crasSelecionado.titulo}</h3>
+              <h3>{crasSelecionado.titulo2}</h3>
               <p>Coordenadora: {crasSelecionado.coordenador}</p>
               <p>
                 Telefone: {crasSelecionado.telefone} - Ramal:{" "}
