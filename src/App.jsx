@@ -46,6 +46,7 @@ function App() {
         "Vale Paraíso",
         "Várzea",
         "40 Casas",
+        "Servidão Delta",
       ],
     },
     {
@@ -233,7 +234,6 @@ function App() {
         "Perpétuo",
         "Pimentel",
         "São Pedro",
-        "Servidão Delta",
       ],
     },
     {
