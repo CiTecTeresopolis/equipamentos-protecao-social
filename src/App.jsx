@@ -6,6 +6,7 @@ function App() {
     {
       id: "cras-alto",
       titulo: "CRAS ALTO",
+      titulo2: "CRAS LÍVIA PRADO PENIN (ALTO)",
       telefone: "(21) 2644-9555",
       ramal: "1001",
       coordenador: "Esvetilana Machado de Lima Pereira",
@@ -50,6 +51,7 @@ function App() {
     {
       id: "cras-barra",
       titulo: "CRAS BARRA",
+      titulo2: "CRAS BARRA",
       telefone: "(21) 2644-9562",
       ramal: "1008",
       coordenador: "Regiane Ferreira Ventura",
@@ -85,6 +87,7 @@ function App() {
     {
       id: "cras-barroso",
       titulo: "CRAS BARROSO",
+      titulo2: "CRAS BARROSO",
       telefone: "(21) 2644-9556",
       ramal: "1002",
       coordenador: "Paolla Alves Chagas",
@@ -105,6 +108,7 @@ function App() {
     {
       id: "cras-bonsucesso",
       titulo: "CRAS BONSUCESSO",
+      titulo2: "CRAS BONSUCESSO",
       telefone: "(21) 2644-9559",
       ramal: "1005",
       coordenador: "Aline Amaral Pagliasse",
@@ -146,6 +150,7 @@ function App() {
     {
       id: "cras-meudon",
       titulo: "CRAS MEUDON",
+      titulo2: "CRAS MEUDON",
       telefone: "(21) 2644-9557",
       ramal: "1003",
       coordenador: "Tereza Cristina Alvares dos Santos",
@@ -165,6 +170,7 @@ function App() {
     {
       id: "cras-prata",
       titulo: "CRAS PRATA",
+      titulo2: "CRAS PRATA",
       telefone: "(21) 2644-9558",
       ramal: "1004",
       coordenador: "Mariza Souza Ferreira",
@@ -211,6 +217,7 @@ function App() {
     {
       id: "cras-sao-pedro",
       titulo: "CRAS SÃO PEDRO",
+      titulo2: "CRAS SÃO PEDRO",
       telefone: "(21) 2644-9560",
       ramal: "1006",
       coordenador: "Lívia Marílha Fermiane Gomes da Silva",
@@ -232,9 +239,10 @@ function App() {
     {
       id: "creas",
       titulo: "CREAS",
+      titulo2: "CREAS",
       telefone: "(21) 2644-9563",
       ramal: "1009",
-      coordenador: "Bibiana Correa Fernandes",
+      coordenador: "Bibiana Correa FernandeS",
       endereco: "Rua Carmela Dutra, nº 812 – Agriões",
       imagem:
         "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UVfAxI1DaBP__s52SNNC6A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=137.13556&pitch=0&thumbfov=100",
@@ -364,7 +372,7 @@ function App() {
                     }}
                     className="cras-button"
                   >
-                    {item.titulo}
+                    {item.titulo2}
                   </button>
                   {index == selectedIndex && isExpanded && (
                     <>
