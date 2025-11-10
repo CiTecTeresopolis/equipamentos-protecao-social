@@ -113,11 +113,11 @@ function App() {
       telefone: "(21) 2644-9559",
       ramal: "1005",
       coordenador: "Aline Amaral Pagliasse",
-      endereco: "Rua Domingos Augusto da Costa - Bonsucesso",
+      endereco: "Estrada Teresópolis-Friburgo, km 28  - Vale de Bonsucesso",
       imagem:
-        "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uUHi43jVYnmkv7_2aPHf9g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=101.20357&pitch=0&thumbfov=100",
+        "https://www.teresopolis.rj.gov.br/wp-content/uploads/2025/10/TUDO-AQUI-subprefeitura-inaugurada-neste-sabado-11-em-Bonsucesso-no-interior-do-municipio.jpeg",
       coordenadas:
-        "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d118067.86605838961!2d-42.983967!3d-22.3679421!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x98397631b680a7%3A0x3d1da1858673cfef!2sCRAS%20Bonsucesso!5e0!3m2!1spt-BR!2sbr!4v1755528794884!5m2!1spt-BR!2sbr",
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d461.50426702120916!2d-42.79955807994817!3d-22.27669671142355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9839006d26fb91%3A0x42b5e400ad907567!2sCETEF!5e0!3m2!1spt-BR!2sbr!4v1762797132306!5m2!1spt-BR!2sbr",
       abrangencia: [
         "Alegria",
         "Agriões de Dentro",
